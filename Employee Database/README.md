@@ -1,6 +1,6 @@
 # Folder: Data Cleaning by removing missing or null  values.
 
-This folder contains scripts and files related to data cleaning operations, including the removal of missing or null values.
+This folder above contains scripts and files related to data cleaning operations, including the removal of missing or null values.
 
 ## Contents
 
